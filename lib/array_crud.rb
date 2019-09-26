@@ -1,5 +1,5 @@
 def create_an_empty_array
-  []
+ array= [I,am,loving,it]
 end
 
 def create_an_array
